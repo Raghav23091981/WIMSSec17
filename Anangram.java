@@ -23,6 +23,7 @@ public class Anangram
         		return Arrays.equals(strArray1, strArray2);
  	}	
 /*Java Manin Program to demonstrate*/
+/*New Update*/
     	public static void main(String[] args)
 	{
         		Scanner sc = new Scanner(System.in);
