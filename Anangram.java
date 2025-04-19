@@ -22,7 +22,7 @@ public class Anangram
 	        	Arrays.sort(strArray2);
         		return Arrays.equals(strArray1, strArray2);
  	}	
-
+/*Java Manin Program to demonstrate*/
     	public static void main(String[] args)
 	{
         		Scanner sc = new Scanner(System.in);
